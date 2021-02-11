@@ -8,7 +8,7 @@
 
 ## The assignment
 
-![endresult](assignment/endresult.png)
+![endresult](endresult.png)
 
 Create a new P5js sketch.
 

@@ -10,7 +10,7 @@
 
 ![endresult](endresult.png)
 
-Create a new P5js sketch.
+Open a new file in your IDE
 
 * Create an svg element
 * Create a viewBox of 1000x1000 in that svg element at x 0, y 0

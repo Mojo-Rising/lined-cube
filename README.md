@@ -19,12 +19,7 @@ Create a new P5js sketch.
 * Create a html file with an svg element in it and use your grid.svg as background for it
 * Using lines, draw a cube and align it with the grid
 
-Tip: Use the following code to draw lines every x pixels
-```
-for(var i = 0; i <= 10; i++) {
-  // pseudo code: drawLineAt(x * i)
-}
-```
+Tip: Remeber that the width of the line takes up coordinate space too.
 
 ## Submitting your work
 Create a new branch called **gh-pages** and upload your local work into this branch. Submit a new **pull request** and make sure to put the (working) **GitHub Pages URL** in the comment section. 

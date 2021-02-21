@@ -13,6 +13,7 @@
 Open a new file in your IDE
 
 * Create an svg element
+* Make sure to add the xmlns="http://www.w3.org/2000/svg" tag
 * Create a viewBox of 1000x1000 in that svg element at x 0, y 0
 * Draw a grid of 10x10 lines
 * Save the svg element as an svg file and call it grid.svg
